@@ -1,9 +1,10 @@
 ### Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=khallan)](https://git.io/streak-stats)
+
 <!--
 **Khallan/Khallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Khallan)](https://git.io/streak-stats) 
+ 
 
 Here are some ideas to get you started:
 
